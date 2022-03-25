@@ -28,3 +28,7 @@
 ### 문제 리스트
 
 [프로그래머스, 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
+
+### 레퍼런스
+
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
