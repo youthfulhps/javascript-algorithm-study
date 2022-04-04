@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "mocha --require @babel/register --reporter mocha-junit-reporter --reporter-options mochaFile=./report.xml",
-    "idbd": "mocha --require @babel/register --reporter spec lib/**/idbd/**/*.test.js",
-    "youth": "mocha --require @babel/register --reporter spec lib/**/youthfulhps/**/*.test.js"
+    "idbd": "mocha --require @babel/register --reporter spec src/**/idbd/**/*.test.js",
+    "youth": "mocha --require @babel/register --reporter spec src/**/youthfulhps/**/*.test.js"
   },
   "repository": {
     "type": "git",
